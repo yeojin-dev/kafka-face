@@ -293,3 +293,5 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,intellij+all,git,macos,linux
+
+sample.mp4
