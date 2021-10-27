@@ -9,6 +9,7 @@ python = "^3.8"
 confluent-kafka = "^1.7.0"
 opencv-python = "^4.5.3"
 dlib = "^19.22.1"
+faust = "^1.10.4"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.15.0"
